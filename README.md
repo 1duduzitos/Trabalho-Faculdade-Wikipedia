@@ -22,4 +22,7 @@ Criar um repositório organizado no GitHub simulando uma base de conhecimento pa
 ## Integrantes
 
 - Eduardo Casubek
+
 - Maria Eduarda Da Silva Moss
+
+
